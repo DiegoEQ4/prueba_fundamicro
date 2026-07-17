@@ -191,6 +191,7 @@
     <Compile Include="Services\ClientesService.vb" />
     <Compile Include="Services\UsuariosService.vb" />
     <Compile Include="Utilities\PasswordHelper.vb" />
+    <Content Include="Context\schema.sql" />
     <Content Include="Views\Auth\Register.vbhtml" />
     <Content Include="README.md" />
     <None Include="Views\Bitacora\List.vbhtml" />

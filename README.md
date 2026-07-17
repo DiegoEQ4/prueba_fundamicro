@@ -14,7 +14,7 @@ Pasos de instalación
    cd <NOMBRE_DEL_REPOSITORIO>
 
 2. Ejecutar el script proporcionado junto al repositorio (antes de crear o editar la configuración)
-
+	Ubicacion: Context.schema.sql
    Nota: este paso crea las tablas/esquema necesarios para la aplicación. Ejecutarlo antes de configurar la conexión.
 
 3. Duplicar el archivo de configuración de ejemplo y añadir las credenciales de la base de datos
